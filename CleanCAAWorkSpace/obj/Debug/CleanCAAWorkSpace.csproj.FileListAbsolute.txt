@@ -1,0 +1,18 @@
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\bin\Debug\CleanCAAWorkSpace.exe.config
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\bin\Debug\CleanCAAWorkSpace.exe
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\bin\Debug\CleanCAAWorkSpace.pdb
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.Form1.resources
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.Properties.Resources.resources
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.csproj.GenerateResource.Cache
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.exe
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.pdb
+d:\我的文档\visual studio 2015\Projects\CleanCAAWorkSpace\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\bin\Debug\CleanCAAWorkSpace.exe.config
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.exe
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.pdb
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\bin\Debug\CleanCAAWorkSpace.exe
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\bin\Debug\CleanCAAWorkSpace.pdb
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.Form1.resources
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\FileTools\CleanCAAWorkSpace\obj\Debug\CleanCAAWorkSpace.csproj.GenerateResource.Cache

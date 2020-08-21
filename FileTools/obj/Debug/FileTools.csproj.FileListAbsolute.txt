@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\GitHub\DuplicateTools\FileTools\obj\Debug\FileTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\DuplicateTools\FileTools\obj\Debug\FileTools.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\DuplicateTools\FileTools\obj\Debug\FileTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\DuplicateTools\FileTools\bin\Debug\FileTools.exe.config
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\bin\Debug\FileTools.exe.config
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\obj\Debug\FileTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\obj\Debug\FileTools.FileToolsForm.resources
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\obj\Debug\FileTools.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\obj\Debug\FileTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\bin\Debug\FileTools.exe
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\bin\Debug\FileTools.pdb
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\obj\Debug\FileTools.exe
+C:\Users\Administrator\Documents\GitHub\FileTools\FileTools\obj\Debug\FileTools.pdb
