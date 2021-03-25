@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTools", "FileTools\File
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCAAWorkSpace", "CleanCAAWorkSpace\CleanCAAWorkSpace.csproj", "{0DDF68A5-55F4-4336-846B-8E1DC0645401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToolsTest", "ExcelToolsTest\ExcelToolsTest.csproj", "{CEE59684-47EB-4B66-A069-8DC52A71FE6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0DDF68A5-55F4-4336-846B-8E1DC0645401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DDF68A5-55F4-4336-846B-8E1DC0645401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DDF68A5-55F4-4336-846B-8E1DC0645401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE59684-47EB-4B66-A069-8DC52A71FE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE59684-47EB-4B66-A069-8DC52A71FE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE59684-47EB-4B66-A069-8DC52A71FE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE59684-47EB-4B66-A069-8DC52A71FE6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
