@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\GitHub\WindowsTools\ExcelToolsTest\bin\Debug\ExcelToolsTest.exe.config
+C:\Users\Administrator\Documents\GitHub\WindowsTools\ExcelToolsTest\obj\Debug\ExcelToolsTest.csproj.ResolveComReference.cache
