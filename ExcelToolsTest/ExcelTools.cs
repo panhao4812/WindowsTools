@@ -1,8 +1,6 @@
 ﻿using Microsoft.Office.Interop.Excel;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Reflection;
 using System.Windows.Forms;
 using Excel = Microsoft.Office.Interop.Excel;
@@ -11,9 +9,9 @@ using Excel = Microsoft.Office.Interop.Excel;
 //Search "Office.dll" and "Interop.Excel.dll".
 namespace ExcelToolsTest
 {
-    public partial class Form1 : Form
+    public partial class ExcelTools : Form
     {
-        public Form1()
+        public ExcelTools()
         {
             InitializeComponent();
         }
